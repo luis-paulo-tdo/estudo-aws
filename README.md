@@ -29,3 +29,39 @@
 - Pode ser visto também quando usamos uma aplicação através do navegador.
 	- Este é um exemplo de Software como Serviço, que é executado na nuvem.
 - O objetivo principal é a oferta de recursos computacionais como serviços.
+
+### 1.3. Entendendo onde está a Nuvem
+- Toda vez que interagimos com um site, estamos solicitando recursos dele.
+- As solicitações são enviadas a um servidor, que retorna dados ao site.
+- Este servidor pode estar funcionando em uma máquina ou na nuvem.
+- A Internet permite que os sites se comuniquem com estes servidores.
+- Esta comunicação só é possível através de um conjunto de protocolos.
+- Os protocolos ajudam a organizar em pacotes toda esta comunicação.
+- Todos os pacotes carregam os endereços de origem e destino da entrega.
+- Os pacotes também carregam o IP dos dispositivos que se comunicam.
+- Através do protocolo TCP/IP, é feita a conexão entre os dispositivos.
+- A comunicação passa por diversas camadas preparam e encaminham os dados.
+- Existem dispositivos no caminho que servem para encaminhar os dados.
+- Isto ocorre porque o solicitante e o servidor podem estar distantes.
+- Estes dispositivos que encaminham os dados são os Roteadores.
+- Na comunicação, a Camada de Aplicação faz a comunicação das aplicações.
+	- O protocolo mais usado nela é o HTTP ou HTTPS.
+- A Camada de Transporte atua na conexão segura dos dispositivos da rede.
+	- O protocolo mais usado nela é o TCP/IP para a entrega dos pacotes.
+- A Camada de Rede é responsável pelo endereçamento dos pacotes na rede.
+	- O protocolo mais usado nela é o IP em suas versões 4 e 6.
+- A Camada de Acesso provê os dispositivos físicos para a comunicação.
+- Dentro de uma Rede de Computadores, existem os Dispositivos de Rede.
+- Diferente dos Clientes e Servidores, eles atuam como encaminhadores.
+- São através deles que as diferentes Redes são interconectadas no mundo.
+- A Nuvem é um conjunto de Servidores que estão interconectados na Rede.
+- O Servidores são Datacenters que centralizam recursos computacionais.
+	- Eles têm uma grande capacidade de processamento e armazenamento.
+- Estes Datacenters se conectam à Rede por canais de altíssima velocidade.
+- Com isso, a entrega rápida dos recursos computacionais é garantida.
+- Há muito tempo era impensável ter este tipo de estrutura na Internet.
+- As velocidades de conexão eram muito baixas há pouco mais de uma década.
+- Era inviável usar qualquer software dentro de um navegador web.
+	- Era mais prático fazer o download e usar o software via desktop.
+- Usar a Computação como Serviço é uma ótima solução para um site.
+- Porém, existem muitos serviços e servidores disponíveis atualmente.
